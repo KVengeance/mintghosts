@@ -10,7 +10,7 @@
   "SYMBOL": "GHOST",
   "MAX_SUPPLY": 25,
   "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
+  "DISPLAY_COST": 0.04,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/do-you-want-to-mint-a-ghost",
